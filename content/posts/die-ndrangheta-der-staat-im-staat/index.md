@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = ""
-description = "\n\n\n"
+description = "Die ´Ndrangheta kontrolliert Kalabrien bereits seit Jahrhunderten. Der Staat hat die Gefahr, die die Mafia darstellt, zu spät wahrgenommen und die Mafia konnte sich so weit verbreiten, dass sie ganze Gebiete kontrolliert. Wie konnte es so weit kommen, dass sie eine ganze Region unter ihre Kontrolle bringen, ohne internationale Aufmerksamkeit zu erregen? Wie konnte sie so einen Einfluss etablieren, dass in Deutschland Morde begangen wurden im Namen der ´Ndrangheta? Und könnte es zu einer vollständigen Abhängigkeit Italiens kommen? M. S. erzählt uns, wie sie die ‘Ndrangheta in ihrem Dorf wahrnimmt.\n\n"
 footnotes = "\\*Name der Redaktion bekannt"
 +++
 **´Ndrangheta der Staat im Staat**
